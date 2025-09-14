@@ -16,17 +16,24 @@
 - **Languages:** C, C++, Java, TypeScript, Python, Swift
 - **Frontend:** React, Vite, Tailwind
 - **Backend:** Node.js (Express/Fastify), SQL (Postgres/MySQL), MongoDB
-- **Other:** Docker, GitHub Actions, Azure, Raspberry Pi
+- **Other:** Docker, GitHub Actions, Azure, Raspberry Pi , n8n
 
 ### 📂 Projects
 - [StyleMatch (iOS)]() — Fashion matcher using SwiftUI + JSON tags  
 - [Split-Pay API]() — Payment microservice with TypeORM + Postgres  
-- [Realtime Chat]() — WebSockets + Redis pub/sub  
+- [Realtime Chat]() — WebSockets + Redis pub/sub
+- [Minecraft Maze Mod](#) — modified Minecraft logic in C++  
+- [Personal Website](#) — HTML/CSS/JS portfolio site  
+- [Automation Flows](#) — n8n workflows for automated calls & Telegram bots  
+- [Split-Pay API](#) — backend payments microservice with TypeORM + PostgreSQL  
+
 
 ### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan-Chaudhary&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Chaudhary&layout=compact&theme=radical)
+![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan-Chaudhary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Chaudhary&layout=compact&theme=tokyonight&hide=css,html)
+
+---
 ### 📫 Connect
-- Email: youremail@example.com  
-- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- Email: (mananchau786@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/manan-chaudhary)
