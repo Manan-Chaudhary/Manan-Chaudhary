@@ -19,9 +19,9 @@
 - **Other:** Docker, GitHub Actions, Azure, Raspberry Pi
 
 ### 📂 Projects
-- [StyleMatch (iOS)](https://github.com/yourrepo) — Fashion matcher using SwiftUI + JSON tags  
-- [Split-Pay API](https://github.com/yourrepo) — Payment microservice with TypeORM + Postgres  
-- [Realtime Chat](https://github.com/yourrepo) — WebSockets + Redis pub/sub  
+- [StyleMatch (iOS)]() — Fashion matcher using SwiftUI + JSON tags  
+- [Split-Pay API]() — Payment microservice with TypeORM + Postgres  
+- [Realtime Chat]() — WebSockets + Redis pub/sub  
 
 ### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan-Chaudhary&show_icons=true&theme=radical)  
