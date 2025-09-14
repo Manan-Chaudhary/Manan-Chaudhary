@@ -27,11 +27,16 @@
 - [Automation Flows](#) — n8n workflows for automated calls & Telegram bots  
 - [Split-Pay API](#) — backend payments microservice with TypeORM + PostgreSQL  
 
+---
 
-### 📊 Stats
-![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan-Chaudhary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Chaudhary&layout=compact&theme=tokyonight&hide=css,html)
+### 🛠 Tech & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-4E9A06?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 ### 📫 Connect
